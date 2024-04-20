@@ -1,0 +1,15 @@
+.bg{
+    color: blueviolet;
+    background-color: bisque;
+    font-size: 20px;
+}
+.rd{
+    color: darkorange;
+    background-color: cornflowerblue;
+    font-size: 30px;
+}
+.org{
+    color: crimson;
+    background-color: chartreuse;
+    font-size: 25px;
+}
